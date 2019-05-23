@@ -1,0 +1,12 @@
+extrs coding buttons,
+innit to false
+
+
+extra label buttons
+innit to zero
+get data from files n update label
+
+
+coding
+update labels and write again
+write coded buttons to data file

@@ -1,0 +1,2 @@
+type examine code number
+option on combining clips if they are close to eachother. 
