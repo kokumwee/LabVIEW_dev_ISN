@@ -1,0 +1,15 @@
+play video
+
+pause
+	once pause allow to drag back and forth
+	set start point end point
+	
+
+play video
+pause vide
+
+once paused allow to drag back n forth
+occlude
+save this occlusion data
+
+play/ speed occlusion data

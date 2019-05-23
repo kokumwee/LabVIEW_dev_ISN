@@ -1,0 +1,4 @@
+drag back and forward lag
+correct errors (undo button)
+
+hang during update
