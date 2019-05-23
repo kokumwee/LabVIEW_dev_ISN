@@ -1,0 +1,49 @@
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<center>
+<OBJECT ID="Player" height="300" width="300"
+  CLASSID="CLSID:6BF52A52-394A-11d3-B153-00C04F79FAA6">
+  <PARAM name="autoStart" value="False">
+  <PARAM name="URL" value="C:\Documents and Settings\rpollack\Desktop\LV Documentation.wmv">
+</OBJECT>
+</center>
+<INPUT TYPE="HIDDEN" NAME="BtnPlay" VALUE="Play" OnClick="StartMeUp()">
+<INPUT TYPE="HIDDEN" NAME="BtnPause" VALUE="Pause" OnClick="PauseMe()">
+<INPUT TYPE="HIDDEN" NAME="BtnFastReverse" VALUE="<<" OnClick="FastReverseMe()">
+<INPUT TYPE="HIDDEN" NAME="BtnFastForward" VALUE=">>" OnClick="FastForwardMe()">
+<INPUT TYPE="HIDDEN" NAME="BtnStop" VALUE="Stop" OnClick="ShutMeDown()">
+<SCRIPT>
+<!--
+
+
+function StartMeUp ()
+{
+    Player.controls.play();
+}
+
+function PauseMe ()
+{
+    Player.controls.pause();
+}
+
+function ShutMeDown ()
+{
+    Player.controls.stop();
+}
+
+function FastForwardMe ()
+{
+    Player.controls.fastForward();
+}
+
+function FastReverseMe ()
+{
+    Player.controls.fastReverse();
+}
+
+-->
+</SCRIPT>
+</BODY>
+</HTML>
