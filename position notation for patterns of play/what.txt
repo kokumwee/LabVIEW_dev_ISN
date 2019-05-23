@@ -1,0 +1,13 @@
+number of rallies by player1
+number of rallies by player2
+
+count the numbe of shots
+
+number of corners played
+count the number of corner shots
+
+number of diagonals run
+search for the corner and plus 2 in the index and match if its a diagonal for that corner. 
+
+number of times a V is played
+search for a corner and plus 2 in the index and match if its a V run. 
