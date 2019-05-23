@@ -1,0 +1,4 @@
+copy data to clipboard
+position of buttons when court switch
+
+check xls files before starting coding
